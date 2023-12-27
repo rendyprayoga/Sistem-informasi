@@ -1,0 +1,19 @@
+.sidenav---sidenav---_2tBP {
+    background: #105c77;
+}
+
+.form-floating>.form-control-plaintext~label::after,
+.form-floating>.form-control:focus~label::after,
+.form-floating>.form-control:not(:placeholder-shown)~label::after,
+.form-floating>.form-select~label::after {
+    background-color: #466773;
+}
+
+.fade {
+    opacity: 0;
+    transition: opacity 0.2s ease-in-out;
+}
+
+.fade.show {
+    opacity: 1;
+}
