@@ -1,0 +1,6 @@
+PyJWT==2.8.0
+PyMySQL==1.1.0
+pyramid==2.0.2
+pytest==7.4.3
+wsgicors==0.7.0
+watchgod==0.8.2
